@@ -1,0 +1,1 @@
+if(is_prime(rank) && (rank%10==3 || rank%10==7)){
